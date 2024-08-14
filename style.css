@@ -446,31 +446,31 @@ input:checked{
 .img-2-1{
     display: flex;
     align-items: flex-end;
-    gap: 30px;
-    margin-bottom: 30px;
+    gap: 20px;
+    margin-bottom: 20px;
 }
 .img-2-2{
     display: flex;
     align-items: flex-start;
-    gap: 30px;
+    gap: 20px;
 }
 .img-2-3{
    /*border: 1px solid black;*/
    display: flex;
    align-items: center;
-   padding: 30px;
+   padding: 20px;
 }
 .img-2-4{
     display: flex;
     align-items: flex-end;
-    gap: 30px;
-    margin-bottom: 30px;
+    gap: 20px;
+    margin-bottom: 20px;
     /*border: 1px solid black;*/
 }
 .img-2-5{
     display: flex;
     align-items: flex-start;
-    gap: 30px;
+    gap: 20px;
     margin-right: 100px;
 }
 
