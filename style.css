@@ -254,6 +254,10 @@ body{
     position: absolute;
     top: 172px;
     right: 42px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px; 
 }
 .overlay .vector{
     display: flex;
@@ -459,7 +463,7 @@ input:checked{
    display: flex;
    align-items: center;
    padding: 10px;
-   width: 275px
+   width: 245px
 }
 .img-2-4{
     display: flex;
