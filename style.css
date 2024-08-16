@@ -111,7 +111,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 100px;
+    gap: 10px;
     /*border: 1px solid rgb(15, 2, 2);*/
 
     div{
@@ -254,6 +254,10 @@ body{
     position: absolute;
     top: 172px;
     right: 42px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px; 
 }
 .overlay .vector{
     display: flex;
@@ -264,13 +268,14 @@ body{
     top: 220px;
     right: 0px;
     h5{
-        color: white;
+        color: white; 
     }
 }
 .vector .nil{
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 2px;
 }
 
 .inspiration{
@@ -446,31 +451,35 @@ input:checked{
 .img-2-1{
     display: flex;
     align-items: flex-end;
-    gap: 30px;
-    margin-bottom: 30px;
+    gap: 10px;
+    margin-bottom: 10px;
 }
 .img-2-2{
     display: flex;
     align-items: flex-start;
-    gap: 30px;
+    gap: 10px;
 }
 .img-2-3{
    /*border: 1px solid black;*/
    display: flex;
    align-items: center;
-   padding: 30px;
+   padding: 10px;
+    img{
+        width: 210px
+    }
+   
 }
 .img-2-4{
     display: flex;
     align-items: flex-end;
-    gap: 30px;
-    margin-bottom: 30px;
+    gap: 10px;
+    margin-bottom: 10px;
     /*border: 1px solid black;*/
 }
 .img-2-5{
     display: flex;
     align-items: flex-start;
-    gap: 30px;
+    gap: 10px;
     margin-right: 100px;
 }
 
