@@ -275,7 +275,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 5px;
+    gap: 2px;
 }
 
 .inspiration{
@@ -465,7 +465,7 @@ input:checked{
    align-items: center;
    padding: 10px;
     img{
-        width: 215px
+        width: 210px
     }
    
 }
