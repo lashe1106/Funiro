@@ -275,7 +275,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 5px;
+    gap: 10px;
 }
 
 .inspiration{
@@ -460,12 +460,12 @@ input:checked{
     gap: 10px;
 }
 .img-2-3{
-   /*border: 1px solid black;*/
+   border: 1px solid black;
    display: flex;
    align-items: center;
    padding: 10px;
     img{
-        width: 225px
+        width: 220px
     }
    
 }
