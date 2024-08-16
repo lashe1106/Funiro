@@ -459,6 +459,7 @@ input:checked{
    display: flex;
    align-items: center;
    padding: 10px;
+   width: 275px
 }
 .img-2-4{
     display: flex;
